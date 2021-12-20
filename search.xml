@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>华航唯实工业机器人PCB异形插件工作站初始IO设定</title>
+      <link href="/2021/12/20/hua-hang-wei-shi-gong-ye-ji-qi-ren-pcb-yi-xing-cha-jian-gong-zuo-zhan-chu-shi-io-she-ding/"/>
+      <url>/2021/12/20/hua-hang-wei-shi-gong-ye-ji-qi-ren-pcb-yi-xing-cha-jian-gong-zuo-zhan-chu-shi-io-she-ding/</url>
+      
+        <content type="html"><![CDATA[<h1 id="华航唯实工业机器人PCB异形插件工作站初始IO设定"><a href="#华航唯实工业机器人PCB异形插件工作站初始IO设定" class="headerlink" title="华航唯实工业机器人PCB异形插件工作站初始IO设定"></a>华航唯实工业机器人PCB异形插件工作站初始IO设定</h1><p>下表为《工业机器人PCB异形插件工作站应用指南》中的附录（ABB工业机器人IO表）部分，由于笔者在学习工业机器人设备过程中需要重置系统并配置IO，使用了设备出厂时的默认IO表，后续亦可根据实际情况定制。</p><p>现将表格摘记如下所示，希望在学习ABB工业机器人的过程中有所帮助。</p><p>Digital Input信号配置表。</p><table><thead><tr><th align="center">序号</th><th align="center">输入信号地址（Digital Input）</th><th align="center">信号名称</th><th align="center">信号功能</th><th align="center">对应关系</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">0</td><td align="center">Area_1_detection_finish</td><td align="center">测试1区完成检测</td><td align="center">PLC</td></tr><tr><td align="center">2</td><td align="center">1</td><td align="center">Area_2_detection_finish</td><td align="center">测试2区完成检测</td><td align="center">PLC</td></tr><tr><td align="center">3</td><td align="center">2</td><td align="center">Area_3_detection_finish</td><td align="center">测试3区完成检测</td><td align="center">PLC</td></tr><tr><td align="center">4</td><td align="center">3</td><td align="center">Area_4_detection_finish</td><td align="center">测试4区完成检测</td><td align="center">PLC</td></tr><tr><td align="center">5</td><td align="center">4</td><td align="center">Continue</td><td align="center">继续</td><td align="center">PLC</td></tr><tr><td align="center">6</td><td align="center">5</td><td align="center">Stop</td><td align="center">急停</td><td align="center">PLC</td></tr><tr><td align="center">7</td><td align="center">6</td><td align="center">Mode</td><td align="center">模式切换</td><td align="center">PLC</td></tr><tr><td align="center">8</td><td align="center">7</td><td align="center">Result</td><td align="center">检测结果</td><td align="center">PLC</td></tr><tr><td align="center">9</td><td align="center">com</td><td align="center">0V</td><td align="center">Input（0~15）共点</td><td align="center"></td></tr><tr><td align="center">10</td><td align="center">com</td><td align="center"></td><td align="center">Input（0~15）共点</td><td align="center"></td></tr><tr><td align="center">11</td><td align="center">8</td><td align="center">VacSen_1</td><td align="center">真空检知（双）</td><td align="center">器具</td></tr><tr><td align="center">12</td><td align="center">9</td><td align="center">VacSen_2</td><td align="center">真空检知（单）</td><td align="center">器具</td></tr><tr><td align="center">13</td><td align="center">10</td><td align="center">Res</td><td align="center">复位</td><td align="center">PLC</td></tr><tr><td align="center">14</td><td align="center">11</td><td align="center">Screw_Arrive</td><td align="center">螺丝到位</td><td align="center">器具</td></tr><tr><td align="center">15</td><td align="center">12</td><td align="center">torque（笔者：Torque）</td><td align="center">扭矩检知</td><td align="center">器具</td></tr><tr><td align="center">16</td><td align="center">13</td><td align="center">CCD_OK</td><td align="center">视觉OK信号</td><td align="center">CCD</td></tr><tr><td align="center">17</td><td align="center">14</td><td align="center">CCD_Finish</td><td align="center">视觉完成</td><td align="center">CCD</td></tr><tr><td align="center">18</td><td align="center">15</td><td align="center">CCD_Running</td><td align="center">视觉运行</td><td align="center">CCD</td></tr></tbody></table><p>Digital Output信号配置表。</p><table><thead><tr><th align="center">序号</th><th align="center">输出信号地址（Digital Output）</th><th align="center">信号名称</th><th align="center">信号功能</th><th align="center">对应关系</th></tr></thead><tbody><tr><td align="center">1</td><td align="center">0</td><td align="center">GO10_1_2</td><td align="center">放料完成组信号</td><td align="center">PLC</td></tr><tr><td align="center">2</td><td align="center">1</td><td align="center">GO10_1_2</td><td align="center">放料完成组信号</td><td align="center">PLC</td></tr><tr><td align="center">3</td><td align="center">2</td><td align="center">PutFinish_Affirm</td><td align="center">放料完成确认</td><td align="center">PLC</td></tr><tr><td align="center">4</td><td align="center">3</td><td align="center">BVAC_1</td><td align="center">破真空</td><td align="center">器具</td></tr><tr><td align="center">5</td><td align="center">4</td><td align="center">Grip</td><td align="center">码垛夹爪</td><td align="center">器具</td></tr><tr><td align="center">6</td><td align="center">5</td><td align="center">Screw_BVac</td><td align="center">吹螺丝</td><td align="center">器具</td></tr><tr><td align="center">7</td><td align="center">6</td><td align="center">Screw_Hit</td><td align="center">打螺丝</td><td align="center">器具</td></tr><tr><td align="center">8</td><td align="center">7</td><td align="center">HandChange_Start</td><td align="center">快换装置</td><td align="center">器具</td></tr><tr><td align="center">9</td><td align="center">com</td><td align="center">0V</td><td align="center">OutPut（0-15）共点</td><td align="center"></td></tr><tr><td align="center">10</td><td align="center">com</td><td align="center">24V</td><td align="center">OutPut（0-15）共点</td><td align="center"></td></tr><tr><td align="center">11</td><td align="center">8</td><td align="center">Vacunm_1</td><td align="center">真空（双）</td><td align="center">器具</td></tr><tr><td align="center">12</td><td align="center">9</td><td align="center">Vacunm_2</td><td align="center">真空（单）</td><td align="center">器具</td></tr><tr><td align="center">13</td><td align="center">10</td><td align="center">AllowPhoto</td><td align="center">允许拍照</td><td align="center">CCD</td></tr><tr><td align="center">14</td><td align="center">11</td><td align="center">GO_10_11_14</td><td align="center">CCD组信号</td><td align="center">CCD</td></tr><tr><td align="center">15</td><td align="center">12</td><td align="center">GO_10_11_14</td><td align="center">CCD组信号</td><td align="center">CCD</td></tr><tr><td align="center">16</td><td align="center">13</td><td align="center">GO_10_11_14</td><td align="center">CCD组信号</td><td align="center">CCD</td></tr><tr><td align="center">17</td><td align="center">14</td><td align="center">GO_10_11_14</td><td align="center">CCD组信号</td><td align="center">CCD</td></tr><tr><td align="center">18</td><td align="center">15</td><td align="center">Scene_Affirm</td><td align="center">场景确认</td><td align="center">CCD</td></tr></tbody></table><p>2021年11月29日于镇海职教</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ABB RAPID </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> ABB RAPID </tag>
+            
+            <tag> MarkDown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2021/12/17/hello-world/"/>
+      <url>/2021/12/17/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
