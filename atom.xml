@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Johann.C</title>
+  
+  <subtitle>🐱 の 小破站</subtitle>
+  <link href="http://tgv-duplex.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://tgv-duplex.github.io/"/>
+  <updated>2021-12-22T08:23:38.463Z</updated>
+  <id>http://tgv-duplex.github.io/</id>
+  
+  <author>
+    <name>Johann.C</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于ABB工业机器人定制化涂胶程序的一点心得</title>
+    <link href="http://tgv-duplex.github.io/2021/12/22/guan-yu-abb-gong-ye-ji-qi-ren-ding-zhi-hua-tu-xiao-cheng-xu-de-yi-dian-xin-de/"/>
+    <id>http://tgv-duplex.github.io/2021/12/22/guan-yu-abb-gong-ye-ji-qi-ren-ding-zhi-hua-tu-xiao-cheng-xu-de-yi-dian-xin-de/</id>
+    <published>2021-12-22T08:01:20.000Z</published>
+    <updated>2021-12-22T08:23:38.463Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;关于ABB工业机器人定制化涂胶程序的一点心得&quot;&gt;&lt;a href=&quot;#关于ABB工业机器人定制化涂胶程序的一点心得&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="ABB RAPID" scheme="http://tgv-duplex.github.io/categories/ABB-RAPID/"/>
+    
+    
+    <category term="ABB RAPID" scheme="http://tgv-duplex.github.io/tags/ABB-RAPID/"/>
+    
+    <category term="C++" scheme="http://tgv-duplex.github.io/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>华航唯实工业机器人PCB异形插件工作站初始IO设定</title>
+    <link href="http://tgv-duplex.github.io/2021/12/20/hua-hang-wei-shi-gong-ye-ji-qi-ren-pcb-yi-xing-cha-jian-gong-zuo-zhan-chu-shi-io-she-ding/"/>
+    <id>http://tgv-duplex.github.io/2021/12/20/hua-hang-wei-shi-gong-ye-ji-qi-ren-pcb-yi-xing-cha-jian-gong-zuo-zhan-chu-shi-io-she-ding/</id>
+    <published>2021-12-20T09:55:30.000Z</published>
+    <updated>2021-12-21T06:57:48.951Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;华航唯实工业机器人PCB异形插件工作站初始IO设定&quot;&gt;&lt;a href=&quot;#华航唯实工业机器人PCB异形插件工作站初始IO设定&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="ABB RAPID" scheme="http://tgv-duplex.github.io/categories/ABB-RAPID/"/>
+    
+    
+    <category term="ABB RAPID" scheme="http://tgv-duplex.github.io/tags/ABB-RAPID/"/>
+    
+    <category term="MarkDown" scheme="http://tgv-duplex.github.io/tags/MarkDown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://tgv-duplex.github.io/2021/12/17/hello-world/"/>
+    <id>http://tgv-duplex.github.io/2021/12/17/hello-world/</id>
+    <published>2021-12-17T06:55:51.576Z</published>
+    <updated>1985-10-26T08:15:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
