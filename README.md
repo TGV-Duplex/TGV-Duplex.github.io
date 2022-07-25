@@ -74,6 +74,7 @@
 > - [FANUC(SHANGHAI) | 下载中心](https://www.shanghai-fanuc.com.cn/DownloadCenter)
 > - [Siemens CN | TIA Portal](https://new.siemens.com/cn/zh/products/automation/industry-software/automation-software/tia-portal/software.html)
 
+> **正在施工...**
 
 <!--以下开始为竞赛资源部分内容-->
 ---
