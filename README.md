@@ -1,43 +1,49 @@
-
----
 # **为什么会有这个网站**
+
 ---
 
->  [!TIPS] \
->  **致敬[CodeSheep](http://www.r2coding.com)老师**，感谢提供**建站指导**。
->  
->  本站将整合**镇职教工业机器人实验室**建设以来的教学资料集，旨在为工业机器人技术**自学者**提供一系列：
->  
->  - **务实的技术文档**
->  - **重要的软件支持**
->  - **靠谱的练习资源**
+> **[!TIPS]** \
+> **致敬[CodeSheep](http://www.r2coding.com)老师**，感谢提供**建站指导**。 \
+> 本站将整合**镇职教机电教研室**建设以来的教学资料集，旨在为机电技术**自学者**提供一系列：
+>
+> - **务实的技术文档**
+> - **重要的软件支持**
+> - **靠谱的练习资源**
 >
 > 方便自己亦方便他人，网站内容将会**持续更新**，欢迎收藏品鉴！
 
 ---
-# **0. 前言**
+<!--上面的横线分隔网站介绍和工业机器人技术-->
+
+# **工业机器人技术**
+
+> 简介：镇职教工业机器人教研组成立于2017年...
+
+## **0. 前言**
+
 ---
 
->  工业机器人是广泛用于工业领域的多关节机械手或多自由度的机器装置，具有一定的自动性，可依靠自身的动力能源和控制能力实现各种工业加工制造功能。工业机器人被广泛应用于电子、物流、化工等各个工业领域之中。 \
->  一般来说，工业机器人由三大部分六个子系统组成。 \
+> 工业机器人是广泛用于工业领域的多关节机械手或多自由度的机器装置，具有一定的自动性，可依靠自身的动力能源和控制能力实现各种工业加工制造功能。工业机器人被广泛应用于电子、物流、化工等各个工业领域之中。 \
+> 一般来说，工业机器人由三大部分六个子系统组成。 \
 > 三大部分是机械部分、传感部分和控制部分。 \
 > 六个子系统可分为机械结构系统、驱动系统、感知系统、机器人-环境交互系统、人机交互系统和控制系统。
 > <p align="right">——摘自<a href="https://baike.baidu.com/item/%E5%B7%A5%E4%B8%9A%E6%9C%BA%E5%99%A8%E4%BA%BA/1290396?fr=aladdin" target="_blank">《百度百科》</a></p>
 
 <!--以下开始为技术文档部分内容-->
 ---
-# **1. 技术文档**
----
 
-> [!TIPS] \
+## **1. 技术文档**
+
+> **[!TIPS]** \
 > 劝君惜取少年时，每天记得磕文档！ \
 > 让我们简单一些，下面是一部分整理过的文档下载链接。 \
 > (仅供**学习使用**，禁止商用，下载后请在**24小时内**删除！)
 
-## **1.1 技术文档下载**
+### **1.1 技术文档下载**
 
 > **[!TIPS]** \
 > 本节( **1.1** )所有文件提取码：**zhzj**
+>
 > - [ABB_CCD组输出信号的含义及应用_20170411_v1.0.pdf](https://pan.baidu.com/s/1h5R2iBxC0hdBueUHxwhrOQ)
 > - [ABB_PLC程序示例_20191028_v1.0.pdf](https://pan.baidu.com/s/1GvgLsOIQzYxURFYz46UVyA)
 > - [ABB_RAPID语言概览_20151022_3HAC050946-010.pdf](https://pan.baidu.com/s/1FqW7-LnoRxBlV0Cgj5ZNaA)
@@ -58,67 +64,69 @@
 > - [Weinview_Manual_EBPro（使用手册）_20180430_v6.00.01.pdf](https://pan.baidu.com/s/1UTsWiJkRBCa5RfnSAM9bhQ)
 > - [Weinview_宏指令说明（节选）_EasyBuilder Pro_20140520_V4.00.01.pdf](https://pan.baidu.com/s/1bl3WrE70wENOaRCB0COTpQ)
 > - [天煌教仪_THMDZW-2型机电设备安装与维修综合实训平台（使用手册）_20150406_v1.0.pdf](https://pan.baidu.com/s/1qHIGivBAQUxU7qxSCh3WPQ)
-
+>
 > 正在施工...
 
 <!--以下开始为软件支持部分内容-->
 ---
-# **2.软件支持**
----
+
+## **2.软件支持**
 
 > **[!TIPS]** \
-> 在工业机器人技术的学习过程中，涉及到的知识面会比较广，配套软件亦较多，建议从官方渠道获得，以得到最大的技术支持。 \
+> 在工业机器人技术的学习过程中，涉及到的知识面会比较广，配套软件亦较多，建议从官方渠道获得，以得到最大的技术支持。\
 > 下面列举了一些涉及到的官方网站：
+>
 > - [ABB Robotics China | RobotStudio](https://new.abb.com/products/robotics/zh/robotstudio)
 > - [北京华航唯实机器人科技股份有限公司 | PQArt工业机器人离线编程软件](https://chlrob.com/ProductCenter/Index)
 > - [FANUC(SHANGHAI) | 下载中心](https://www.shanghai-fanuc.com.cn/DownloadCenter)
 > - [Siemens CN | TIA Portal](https://new.siemens.com/cn/zh/products/automation/industry-software/automation-software/tia-portal/software.html)
-
+>
 > 正在施工...
 
 <!--以下开始为课程资源部分内容-->
 ---
-# **3.课程资源**
----
-> [!TIPS] \
+
+## **3.课程资源**
+
+> **[!TIPS]** \
 > 这里挂载了一部分的工业机器人技术应用项目的竞赛和学习资源，如有需要的话，请自行选取吧~ \
 > (仅供**学习使用**，禁止商用，下载后请在**24小时内**删除！)
 
-## **3.1 课程教学相关**
+### **3.1 课程教学相关**
 
 > **[!TIPS]** \
 > 本节（**3.1**）所有文件提取码：**kcjx**
+>
 > - [2020学年第一学期19机器人班《工业机器人离线编程》教学计划_Johann_20201117_v200107305.doc](https://pan.baidu.com/s/12b8hhGLxxO9FzB0cFPhuDQ)
 > - [2020学年第一学期19机器人班《工业机器人离线编程》期末试卷A卷_Johann_20210111_v200107305.doc](https://pan.baidu.com/s/1duepjyWcQ7AKqrRMSm09Ng)
 > - [2020学年第一学期19机器人班《工业机器人离线编程》期末试卷B卷_Johann_20210112_v200107305.doc](https://pan.baidu.com/s/1vA2YdqDsWbEIn98rofBqXQ)
 > - [2020学年第一学期19机器人班《工业机器人离线编程》期末试卷分析_Johann_20210129_v200107305.doc](https://pan.baidu.com/s/146aTUGvoANFXZskMghJ_iA)
 > - [2020学年第一学期19机器人班《工业机器人离线编程》实践课期中考试成绩分析_Johann_20201118_v200107305.doc](https://pan.baidu.com/s/1JKfWRXQmGKnNMzcQH6bhKA)
 > - [2020学年第一学期19机器人班《工业机器人离线编程》实践课期中考试设计表_Johann_20201118_v200107305.doc](https://pan.baidu.com/s/1kfRgdX1xvtXdHsOemyFfAQ)
-
+>
 > 正在施工...
 
-## **3.2 课程练习下载**
+### **3.2 课程练习下载**
 
 > **[!TIPS]** \
 > 本节（**3.2**）所有文件提取码：**kclx**
+>
 > - [工业机器人技术应用_PQArt场景搭建_Johann_20201103_v1.0.robx](https://pan.baidu.com/s/1WrVe9J2KvAGRnMptGlAsJw)
 > - [工业机器人技术应用_PQArt码垛01_Johann_20201103_v1.0.robx](https://pan.baidu.com/s/1nnJsl4BNTJiTw2kOtH_JRA)
 > - [工业机器人技术应用_PQArt码垛01_空白轨迹_Johann_20201103_v1.0.robx](https://pan.baidu.com/s/1uwHuhq5p3N_MhFOIieM_lg)
 > - [工业机器人技术应用_PQArt涂胶01_Johann_20201103_v1.0.robx](https://pan.baidu.com/s/1Ax7xyAZ4fSNeNuUO5FBhFg)
 > - [工业机器人技术应用_PQArt涂胶01_空白轨迹_Johann_20201103_v1.0.robx](https://pan.baidu.com/s/1s6fSwAEDhlxJrW7ZQpFIGg)
-
-
+>
 > 正在施工...
 
-
-
-
 <!--以下开始为附件部分内容-->
+---
 
-# **附件1：工业机器人技术竞赛题目下载（适配华航唯实CHL-DS-01平台）**
+## **4.附件：工业机器人技术竞赛题目下载（适配华航唯实CHL-DS-01平台）**
 
 > **[!TIPS]** \
-> 本附件1所有文件提取码：**jsmn**
+> 本附件所有文件提取码：**jsmn**
+>
 > - [2019年全国职业院校技能大赛中职组“机器人技术应用”赛项赛题库.docx](https://pan.baidu.com/s/1fuW545L1IgttEPLVREIW1g)
 > - [2021年全国职业院校技能大赛中职组“机器人技术应用”赛项竞赛任务书.pdf](https://pan.baidu.com/s/1MH7dIt1cx7D12h2j6GNlPA)
 > - [2021年全国职业院校技能大赛中职组“机器人技术应用”赛项竞赛评分表1（封面、模块A）.pdf](https://pan.baidu.com/s/1eRhP_tWrt8QVJTiFZ6PRkA )
@@ -127,5 +135,53 @@
 > - [2021年全国职业院校技能大赛中职组“机器人技术应用”赛项竞赛评分表4（模块B-4、模块B-5）.pdf](https://pan.baidu.com/s/1z6WqflRCZRIxpXT0bwikXA)
 > - [2021年全国职业院校技能大赛中职组“机器人技术应用”赛项竞赛评分表5（模块C）.pdf](https://pan.baidu.com/s/1AMcLkOHilHS_Tj-xSZyjcQ)
 > - [2021年全国职业院校技能大赛中职组“机器人技术应用”赛项竞赛评分表6（职业素养）.pdf](https://pan.baidu.com/s/1_cAPquXpAft6be9Qpko9CA)
-
+>
 > 正在施工...
+
+---
+<!--上面的横线分隔工业机器人技术和机械原理-->
+
+# **机械原理**
+
+> 简介：......
+
+## **0.前言**
+
+---
+> 机械原理（theory of machines and mechanisms）是研究机构和机器的学科，其主要组成部分为机构学与机械动力学。一般把机构和机器合称为机械，因而机械原理研究的对象为机械。 \
+> 机械原理研究机械中机构的结构和运动，以及机器的结构、受力、质量和运动的学科。这一学科的主要组成部分为机构学和机械动力学。人们一般把机构和机器合称为机械。
+> <p align="right">——摘自<a href="https://baike.baidu.com/item/%E6%9C%BA%E6%A2%B0%E5%8E%9F%E7%90%86/2635100" target="_blank">《百度百科》</a></p>
+>
+> 正在施工...
+---
+<!--上面的横线分隔机械原理和机械制图-->
+
+# **机械制图**
+
+> 简介：......
+
+## **0.前言**
+
+---
+> 机械制图是用图样确切表示机械的结构形状、尺寸大小、工作原理和技术要求的学科。图样由图形、符号、文字和数字等组成，是表达设计意图和制造要求以及交流经验的技术文件，常被称为工程界的语言。 \
+> 另外机械制图也是大多高等院校机械类及相关专业开设的一门基本必修课程之一。
+> <p align="right">——摘自<a href="https://baike.baidu.com/item/%E6%9C%BA%E6%A2%B0%E5%88%B6%E5%9B%BE/975532" target="_blank">《百度百科》</a></p>
+>
+> 正在施工...
+---
+<!--上面的横线分隔机械制图和控制工程-->
+
+# **控制工程基础**
+
+> 简介：......
+
+## **0.前言**
+
+---
+> 控制工程（Control Engineering）是处理自动控制系统各种工程实现问题的综合性工程技术。包括对自动控制系统提出要求（即规定指标）、进行设计、构造、运行、分析、检验等过程。它是在电气工程和机械工程的基础上发展起来的。 \
+> 普遍使用频域法（采用系统外部输入输出关系的频率域描述传递函数作为分析和设计的基础）和状态空间法（建立在状态变量描述基础上的对控制系统分析和综合的方法）。其理论和处理方法涉及许多方面，从线性控制到非线性控制，从单变量控制到多变量控制，从连续控制到采样控制，从定常控制到随机控制，从一般的反馈控制到自适应控制等。
+> <p align="right">——摘自<a href="https://baike.baidu.com/item/%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B/85634" target="_blank">《百度百科》</a></p>
+>
+> 正在施工...
+---
+<!--上面的横线对应控制工程基础-->
