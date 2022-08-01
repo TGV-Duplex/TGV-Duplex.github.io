@@ -1,6 +1,6 @@
 #
 
-<img src="https://raw.githubusercontent.com/TGV-Duplex/CDN_Image/main/Web_Cover.png" alt="加载失败，请狂摁F5重试 :("/>
+<img src="https://cdn.jsdelivr.net/gh/TGV-Duplex/CDN_Image@1.0.1/Web_Cover.png" alt="加载失败，不要相信JSDelivr :("/>
 
 致敬[**CodeSheep**](http://www.r2coding.com)老师，感谢提供建站指导。 \
 感谢所有提出批评意见的小伙伴们！ \
